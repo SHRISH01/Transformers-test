@@ -1,0 +1,6 @@
+{
+    "port": 7860,
+    "share": true,
+    "title": "Text-to-Image Generator",
+    "description": "Generate an image from text using Stable Diffusion."
+}

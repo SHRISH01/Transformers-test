@@ -1,0 +1,5 @@
+{
+    "model_id": "CompVis/stable-diffusion-v1-4",
+    "resolution": 512,
+    "device": "cuda"
+}
