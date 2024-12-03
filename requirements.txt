@@ -1,0 +1,6 @@
+gradio==3.25.0
+transformers
+torch
+pillow
+json
+requests
